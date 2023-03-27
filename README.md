@@ -6,6 +6,8 @@ Udemy, Bogdan Stashchuk - JavaScript - Полный Курс По JavaScript (20
 > Производство: Udemy
 > 
 > Жанр: Программирование
+> 
+> Курс для ознакомления https://nnmclub.to/forum/viewtopic.php?t=1525842&start=30 или https://www.youtube.com/watch?v=CxgOKJh4zWE
 
 JavaScript - это самый популярный язык программирования в мире. На нем можно создавать как фронтенд, так и бэкенд приложения.
 
