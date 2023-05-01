@@ -8,7 +8,6 @@ let - изменяемая переменная на протяжении раб
 const - неизменяемая перменная на протяжении работы приложения. Появилась в ECMAScript 6
 var - старый формат объявления переменных. Был до ECMAScript 6. Лучше не использовать
 */
-
 /* //Объвление переменных через let
 let a; //объявление переменной
 const c = 10; //объявление и присваивание переменной
@@ -52,7 +51,6 @@ copyOfA.c = "abc";
 
 let d = 20;
 console.log(d);*/
-
 /* //Статическая типизация
 String a = 'abc'
 int b = 10
@@ -69,13 +67,10 @@ function a() {
 a(); //'Hey there'
 a = 10;
 a(); // Uncaught TypeError: a is not a function */
-
 //Стрелочная функция
-const a = () => {
-  console.log("Hey there");
+const a = () = > {
+        console.log("Hey there");
 };
-
 a(); //'Hey there'
 a = 10; //TypeError: Assignment to constant variable. Нельзя присвоить новое значение
-
 a();

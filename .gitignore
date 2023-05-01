@@ -32,4 +32,5 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 
-/nbproject/private/
+*.clpprj
+*.csprj
