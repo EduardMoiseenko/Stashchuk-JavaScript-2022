@@ -75,4 +75,3 @@ person7.name = 'Alice'
 
 console.log(person9.name) // Alice
 console.log(person8.name) // Bob
-console.log("---------------------------------------------")
